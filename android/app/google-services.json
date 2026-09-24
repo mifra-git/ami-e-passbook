@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37823770721",
+    "project_id": "ami-e-passbook",
+    "storage_bucket": "ami-e-passbook.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37823770721:android:d00b345bd4ca547f0ffa20",
+        "android_client_info": {
+          "package_name": "com.example.ami_e_passbook_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyI-UhDw7CGQ4n1iZyYbjaBM08FziVxc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
